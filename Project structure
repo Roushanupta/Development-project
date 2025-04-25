@@ -1,0 +1,18 @@
+task-tracker-backend/
+│
+├── models/
+│   ├── User.js
+│   ├── Project.js
+│   └── Task.js
+│
+├── routes/
+│   ├── authRoutes.js
+│   ├── projectRoutes.js
+│   └── taskRoutes.js
+│
+├── middleware/
+│   └── authMiddleware.js
+│
+├── .env
+├── server.js
+└── config.js
